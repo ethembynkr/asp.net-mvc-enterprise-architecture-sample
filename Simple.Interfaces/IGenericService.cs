@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Simple.Interfaces
 {
-    interface IGenericService<T>
+    public interface IGenericService<T>
     {
         T Create(T entity);
         List<T> List();

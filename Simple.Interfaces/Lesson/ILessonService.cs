@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Simple.Interfaces.Lesson
 {
-    interface ILessonService : IGenericService<Lessons>
+    public interface ILessonService : IGenericService<Lessons>
     {
         bool Delete(int id);
         Lessons Get(int id);

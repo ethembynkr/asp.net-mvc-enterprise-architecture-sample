@@ -41,13 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LessonInfo\LessonInfoManager.cs" />
+    <Compile Include="Lesson\LessonsManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student\StudentManager.cs" />
+    <Compile Include="Teacher\TeacherManager.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="LessonInfo\" />
-    <Folder Include="Lesson\" />
-    <Folder Include="Student\" />
-    <Folder Include="Teacher\" />
+    <ProjectReference Include="..\Simple.Dal\Simple.Dal.csproj">
+      <Project>{D9A8A488-17ED-4FD1-8FEB-A9F0DDF6C03E}</Project>
+      <Name>Simple.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Simple.Entity\Simple.Entity.csproj">
+      <Project>{C2277CD2-8FB6-4A2E-8EB1-DD762DFEFCAE}</Project>
+      <Name>Simple.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Simple.Interfaces\Simple.Interfaces.csproj">
+      <Project>{44774d83-0c04-4aa6-956e-240d6f7783e3}</Project>
+      <Name>Simple.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

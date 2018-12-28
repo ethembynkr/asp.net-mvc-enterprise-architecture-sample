@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\ILessonDal.cs" />
-    <Compile Include="Abstract\ILessonInfo.cs" />
+    <Compile Include="Abstract\ILessonInfoDal.cs" />
     <Compile Include="Abstract\IStudentDal.cs" />
     <Compile Include="Abstract\ITeacherDal.cs" />
     <Compile Include="Concrete\EntityFramework\Context\simpleDbContext.cs" />

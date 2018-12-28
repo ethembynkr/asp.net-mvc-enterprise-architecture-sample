@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Simple.Dal.Concrete.EntityFramework.Repository
 {
-    class EfLessonsInfoRepository : ILessonInfo
+    class EfLessonsInfoRepository : ILessonInfoDal
     {
         public LessonsInfo Create(LessonsInfo entity)
         {

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Simple.Interfaces.Teacher
 {
-    interface ITeachersService:IGenericService<Teachers>
+    public interface ITeachersService :IGenericService<Teachers>
     {
         bool Delete(int id);
-        Students Get(int id);
+        Teachers Get(int id);
     }
 }

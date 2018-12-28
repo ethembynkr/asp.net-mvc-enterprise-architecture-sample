@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Simple.Dal.Abstract
 {
-    interface ITeacherDal
+    public interface ITeacherDal
     {
         Teachers Create(Teachers entity);
         List<Teachers> List();
