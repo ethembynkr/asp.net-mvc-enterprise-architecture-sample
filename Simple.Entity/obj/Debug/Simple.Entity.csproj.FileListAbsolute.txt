@@ -1,0 +1,12 @@
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\Simple.Entity.dll.config
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\Simple.Entity.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\Simple.Entity.pdb
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\obj\Debug\Simple.Entity.csprojAssemblyReference.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\obj\Debug\Simple.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\obj\Debug\Simple.Entity.csproj.CopyComplete
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\obj\Debug\Simple.Entity.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Entity\obj\Debug\Simple.Entity.pdb

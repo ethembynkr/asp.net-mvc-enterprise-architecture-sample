@@ -1,0 +1,6 @@
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\bin\Debug\Simple.Bll.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\bin\Debug\Simple.Bll.pdb
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\obj\Debug\Simple.Bll.csprojAssemblyReference.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\obj\Debug\Simple.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\obj\Debug\Simple.Bll.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Bll\obj\Debug\Simple.Bll.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\Simple.Interfaces.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\Simple.Interfaces.pdb
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\Simple.Entity.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\Simple.Entity.pdb
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\Simple.Entity.dll.config
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\obj\Debug\Simple.Interfaces.csprojAssemblyReference.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\obj\Debug\Simple.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\obj\Debug\Simple.Interfaces.csproj.CopyComplete
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\obj\Debug\Simple.Interfaces.dll
+C:\Users\Ethem\source\repos\SimpleProject\Simple.Interfaces\obj\Debug\Simple.Interfaces.pdb
